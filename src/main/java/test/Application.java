@@ -15,7 +15,7 @@ public class Application {
 	}
 	@RequestMapping(value="/")
 	public String Demo() {
-		return "Programming at Marlabs";
+		return "Springboot+docker Project";
 	}
 
 }
